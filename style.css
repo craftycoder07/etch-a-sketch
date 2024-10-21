@@ -1,0 +1,12 @@
+.row-div {
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+}
+
+.grid-div {
+    border: 1px solid red;
+    background-color: blue;
+    width: 32px;
+    height: 32px;
+}
